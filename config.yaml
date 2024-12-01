@@ -1,0 +1,6 @@
+path : C:\Users\daniilligai\Desktop\avtomatkorobkov\training\data
+val : val/images
+train : train/images
+
+nc: 1
+names : ['detalka']
